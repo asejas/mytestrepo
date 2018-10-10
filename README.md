@@ -1,2 +1,10 @@
-# mytestrepo
-This is a test repo in order to commit a fork
+# reactsample
+Is a sample application with React and Flux 
+
+# install
+* Install Node.js
+* Install Gulp (globally and locally): npm install -g gulp
+* Install dependencies: npm install
+
+# run 
+gulp
